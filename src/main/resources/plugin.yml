@@ -3,7 +3,7 @@ main: cc.ranmc.optimiser.Main
 description: '桃花源定制24k纯钛合金超级无敌终终终终极版性能优化插件'
 website: https://www.ranmc.cc/
 author: Ranica
-version: 3.6
+version: 3.7
 api-version: 1.13
 softdepend: [PlaceholderAPI]
 folia-supported: true
